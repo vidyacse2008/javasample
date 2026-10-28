@@ -1,0 +1,11 @@
+BaseReport.class
+Report.class
+TestResult.class
+ReportRunner.class
+org/yourcompany/yourproject/Javasample.class
+Status.class
+MailReport.class
+Sample.class
+SlackReport.class
+ConsoleReport.class
+Summary.class

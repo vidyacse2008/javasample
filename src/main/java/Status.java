@@ -1,0 +1,1 @@
+enum Status {FAILED, PASSED, SKIPPED}
